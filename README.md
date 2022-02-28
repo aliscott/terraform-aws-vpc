@@ -4,7 +4,7 @@ Terraform module which creates VPC resources on AWS.
 
 ## Usage
 
-<a href="http://localhost:3000/playground?repoUrl=https://github.com/terraform-aws-modules/terraform-aws-vpc"><img src="https://img.shields.io/static/v1?label=infracost&message=$110&color=blueviolet" /></a>
+<a href="http://localhost:3000/playground?repoUrl=https://github.com/terraform-aws-modules/terraform-aws-vpc"><img src="https://img.shields.io/static/v1?label=monthly cost&message=$110&color=blueviolet" /></a>
 
 ```hcl
 module "vpc" {
